@@ -1,0 +1,17 @@
+Bi - Não é ferramenta é um conceito
+
+Dax
+query editor
+report view
+relationship viwe
+data view no power bi
+
+MargemLucro = ROUND(DIVIDE(Vendas[Lucro], Vendas[Valor Venda]) * 100,2)
+
+Fiz uma coluna de divisao e usei o round para colocar 2 casas decimais
+
+
+Modelagem de dados, dashboard de vendas,custos,margem de lucro kpi,
+datasets e transformacao verificando relacionamento , 
+removendo duplicatas , relacionamento e cardinalidade
+dax
